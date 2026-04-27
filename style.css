@@ -4,19 +4,18 @@
   box-sizing: border-box;
 }
 
-/*  Delete this line 
+
 .body {
   font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
-Delete this line   */
 
 
 
-/*  Delete this line 
-.header {
+
+.header{
   background-color: #2c3e50;
   color: white;
   padding: 24px;
@@ -25,11 +24,10 @@ Delete this line   */
   align-items: center;
   gap: 8px;
 }
-Delete this line   */
 
 
 
-/*  Delete this line 
+
 
 .nav {
     background-color: #34495e;
@@ -39,18 +37,16 @@ Delete this line   */
     justify-content: center;
     gap: 24px;
 }
-Delete this line   */
 
-/*  Delete this line 
+
 
 .a-style {
     color: white;
     text-decoration: none;
     font-size: 1rem;
 }
-Delete this line   */
 
-/*  Delete this line 
+
 .main {
   flex: 1;
   display: flex;
@@ -58,10 +54,9 @@ Delete this line   */
   padding: 32px 24px;
   background-color: #ecf0f1;
 }
-Delete this line   */
 
 
-/*  Delete this line 
+
 .section {
   display: flex;
   flex: 1;
@@ -71,15 +66,15 @@ Delete this line   */
   padding: 24px;
   border-radius: 6px;
 }
-Delete this line   */
 
-/*  Delete this line 
+
+
 .footer {
   background-color: #2c3e50;
   color: white;
   padding: 16px 24px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items:center;
 }
-Delete this line   */
+
